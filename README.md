@@ -103,6 +103,12 @@ Pull requests welcome! If you have common sandbox override fixes for other apps,
 
 ---
 
+## 👨‍💻 Developer
+
+**BrainScanMedia.com, Inc.** — https://www.brainscanmedia.com
+
+---
+
 ## 📄 License
 
-MIT — free to use, modify, and share.
+MIT — © BrainScanMedia.com, Inc. — free to use, modify, and share.
