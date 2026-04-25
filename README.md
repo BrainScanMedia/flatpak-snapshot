@@ -4,6 +4,8 @@ A two-script system to **snapshot your current Flatpak app installs and GNOME ap
 
 Built for Fedora + GNOME but should work on any GNOME-based Linux distro using Flatpak.
 
+![Flatpak Snapshot in action](flatpak-snapshot.png)
+
 ---
 
 ## 📦 What It Does
